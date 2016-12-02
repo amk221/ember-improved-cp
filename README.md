@@ -65,6 +65,9 @@ export default Ember.Component.extend({
 })
 
 ```
+### Linting
+
+To make sure your team always use `ember-improved-cp/read-only` instead of `ember-computed`, you may wish to utilise a [linting rule](http://eslint.org/docs/rules/no-restricted-imports).
 
 ## Installation
 
